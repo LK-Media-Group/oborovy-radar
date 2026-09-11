@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+*.local.json
+__pycache__/
+*.pyc
+.venv/
+output/
+build/
+dist/
+*.log
+status.json
+install-state.json
+settings-backup-*.json

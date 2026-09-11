@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fiktivní produktový deník</title>
+<entry><title>Čekací listina pro obsazené kurzy</title><link href="https://produkt.example/cekaci-listina"/><published>2026-09-08T07:00:00Z</published><summary>Fiktivní ukázka stejné novinky v druhém feedu.</summary></entry>
+<entry><title>Export rezervací v CSV</title><link href="https://produkt.example/export"/><published>2026-09-09T11:00:00Z</published><summary>Fiktivní ukázka: export obsahuje termín a počet rezervovaných míst.</summary></entry>
+</feed>

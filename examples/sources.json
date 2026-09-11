@@ -1,0 +1,6 @@
+{
+  "feeds": [
+    {"name": "Fiktivní dílenské novinky", "url": "https://dilna.example/rss", "fixture": "rss.xml"},
+    {"name": "Fiktivní produktový deník", "url": "https://produkt.example/atom", "fixture": "atom.xml"}
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Fiktivní dílenské novinky</title>
+<item><title>Rezervační nástroj přidal čekací listinu</title><link>https://produkt.example/cekaci-listina?utm_source=demo</link><pubDate>Tue, 08 Sep 2026 09:00:00 +0200</pubDate><description>Fiktivní ukázka: provozovatelé kurzů mohou evidovat zájemce o obsazený termín.</description></item>
+<item><title>Starší oznámení</title><link>https://dilna.example/starsi</link><pubDate>Mon, 31 Aug 2026 10:00:00 +0200</pubDate></item>
+</channel></rss>
